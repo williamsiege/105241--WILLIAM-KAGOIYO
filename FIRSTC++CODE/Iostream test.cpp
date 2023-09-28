@@ -1,5 +1,5 @@
 //Simple Iostream Test Program
-5
+
 #include <iostream>
 using namespace std;
 int main() 
@@ -12,6 +12,7 @@ int number;
  cerr << "This is a sample error message";
 
 }
+
 // this is my iostream test in C++
 //Created by William kagoiyo 
 //Email: wkwabuiya@outlook.com
