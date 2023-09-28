@@ -8,9 +8,9 @@ string number;
 
  cout << "Enter a Number";
  cin >> number;
- cout << "You entered" +number << endl;
+ cout << "You entered " + number << endl;
  cerr << "This is a sample error message";
-
+ return 0;
 }
 
 // this is my iostream test in C++
