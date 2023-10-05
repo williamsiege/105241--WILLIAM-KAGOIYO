@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-// Outputting the statements while skipping to the next line, escape sequences ((endL, \n.) commands.)
+// Outputting the statements while skipping to the next line, escape sequences ((endL, \n, \t.) commands.)
 
 cout << "***********Escape Sequence Practice*************" <<endl;
 cout << "DBIT is a university diploma designed to focus on:\n";
