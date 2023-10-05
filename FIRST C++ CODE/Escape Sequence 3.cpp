@@ -7,17 +7,17 @@ using namespace std;
 int main()
 {
 cout<< "Stick Woman and Man standing next to\n";
-cout<< "their car\n\n\n\n";
+cout<< "their car\n\n\n";
 
 // display.
 
-cout << "\t\t/  \\"  <<endl;
-
-cout << "\t\t(O O)"<<endl;
-cout << "\t\t\t--"
-     
-     << "  > " <<endl;
-
+cout << "\t\t|-----|  \\ "  <<endl;
+cout << "\t\t|(O O)| "<<endl;
+cout << "\t\t|-----|"<<endl;
+cout << "\t\t  / \\"<<endl;
+cout << "\t\t   |"<<endl;
+cout << "\t\t  / \\"<<endl;
+cout << "\t\t /  \\"<<endl;
 
 
 return 0;
