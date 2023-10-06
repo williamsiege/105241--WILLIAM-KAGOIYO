@@ -15,9 +15,10 @@ cout << "\t\t|-----|  \\ "  <<endl;
 cout << "\t\t|(O O)| "<<endl;
 cout << "\t\t|-----|"<<endl;
 cout << "\t\t  / \\"<<endl;
+cout << "\t\t / | \\"<<endl;
 cout << "\t\t   |"<<endl;
 cout << "\t\t  / \\"<<endl;
-cout << "\t\t /  \\"<<endl;
+cout << "\t\t /   \\"<<endl;
 
 
 return 0;
