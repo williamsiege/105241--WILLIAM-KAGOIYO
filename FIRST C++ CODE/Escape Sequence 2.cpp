@@ -6,7 +6,7 @@ int main()
 {
 // Outputting the statements while skipping to the next line, escape sequences ((endL, \n, \t.) commands.)
 
-cout << "***********''Escape Sequence Practice''*************" <<endl;
+cout << "***********\"Escape Sequence Practice\"*************" <<endl;
 cout << "DBIT is a university diploma designed to focus on:\n";
 cout << "\t1.Development,\n";
 cout << "\t2.Implementation, and\n";
