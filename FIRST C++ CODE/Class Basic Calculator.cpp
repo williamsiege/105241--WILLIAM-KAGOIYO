@@ -27,14 +27,14 @@ void Multi()
 void Div()
 {
     float div = value1/value2;// Division operation for values 1 and 2
-    cout<< " Division is "<< div<<endl;
+    cout<< "Division is "<< div<<endl;
 
 }
 int main()
 {
-    
+    cout << "Give One Number "<<endl;
     cin >>value1;
-    
+    cout << "Give Another Number"<<endl;
     cin >>value2;
 
     cout<< "Given Number 1 is "<<value1<<endl;
