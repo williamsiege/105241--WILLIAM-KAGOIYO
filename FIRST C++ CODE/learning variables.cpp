@@ -43,6 +43,8 @@ cout << "Global Variable Age = "<<age<<endl;
 // How to output localVar1 using a function
 
 myFunction();
+
+// output a function that inputs variables within the function(add and display values)
 addAndDisplay(10,15);
 
 return 0;
