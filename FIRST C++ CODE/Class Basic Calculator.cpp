@@ -32,9 +32,9 @@ void Div()
 }
 int main()
 {
-    cout << "Give One Number "<<endl;
+    cout << "Give One Number ";
     cin >>value1;
-    cout << "Give Another Number"<<endl;
+    cout << "Give Another Number  ";
     cin >>value2;
 
     cout<< "Given Number 1 is "<<value1<<endl;
