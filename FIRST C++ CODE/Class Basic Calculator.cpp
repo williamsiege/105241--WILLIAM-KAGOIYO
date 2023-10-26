@@ -37,8 +37,8 @@ int main()
     cout << "Give Another Number  ";
     cin >>value2;
 
-    cout<< "Given Number 1 is "<<value1<<endl;
-    cout<< "Given Number 2 is "<<value2<<endl;
+    cout<< "Number 1 is "<<value1<<endl;
+    cout<< "Number 2 is "<<value2<<endl;
 
     Add();
     Sub();
