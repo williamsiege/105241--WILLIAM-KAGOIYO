@@ -5,8 +5,8 @@
 using namespace std;
  
  int main()
- {
-    
+{
+
 string fullName,lastName,meal, movie, location, birthday;
 // Simple Data Input using getline() syntax.
 
