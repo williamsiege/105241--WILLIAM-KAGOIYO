@@ -6,8 +6,9 @@ using namespace std;
  
  int main()
  {
+    
 string fullName,lastName,meal, movie, location, birthday;
-// Simple Data Input using getline()
+// Simple Data Input using getline() syntax.
 
 //FULLNAME
 cout << "Enter your Full Name: ";
