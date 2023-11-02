@@ -18,10 +18,10 @@ cout << "Enter your last Name: ";
 getline(cin,lastName);
 //
 
-// Cin >> treats spaces as terminating characters
-// Input Full Name : Kagoiyo Wabuiya
-// Enter your Full Name : Kagoiyo
-// to correct we use getline() syntax
+// Cin >> treats spaces as terminating characters.
+// Input Full Name : Kagoiyo Wabuiya.
+// Enter your Full Name : Kagoiyo , thus does not show full data entered.
+// to correct we use getline() syntax.
 
 //FAVOURITE MEAL
 cout << "Enter Favourite Meal: ";
