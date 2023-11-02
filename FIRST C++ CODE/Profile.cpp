@@ -6,31 +6,50 @@ using namespace std;
  
  int main()
  {
-string fullName,lastName,meal, movie, location;
-// Simple Data Input using cin>>
+string fullName,lastName,meal, movie, location, birthday;
+// Simple Data Input using getline()
+
+//FULLNAME
 cout << "Enter your Full Name: ";
 getline(cin,fullName);
-cout << "My Full Name is "<<fullName<< endl;
-//
+
+//LASTNAME
 cout << "Enter your last Name: ";
 getline(cin,lastName);
-cout << "My Last Name is "<<lastName<< endl;
+//
+
 // Cin >> treats spaces as terminating characters
 // Input Full Name : Kagoiyo Wabuiya
 // Enter your Full Name : Kagoiyo
 // to correct we use getline() syntax
-cout << "Enter Favorite Meal: ";
+
+//FAVOURITE MEAL
+cout << "Enter Favourite Meal: ";
 getline(cin,meal);
-cout << "Favourite Meal is :"<<meal<<endl;
-//
+
+//Place of Residence
 cout << "Enter Place of Residence: ";
 getline(cin,location);
-cout <<"I live in : "<<location<<endl;
-//
-cout << "Favourite MovieS is :";
+
+//Favourite Movies
+cout << "Favourite Movies is :";
 getline(cin,movie);
-cout <<"My Favourite movies is :"<<movie<<endl;
+
+//Birthday
+cout << "Enter your Date of Birth :";
+getline(cin,birthday);
+
+
+cout<< "\n\n";
+
+cout << "My Full Name is "<<fullName<< endl;
+cout << "My Last Name is "<<lastName<< endl;
+cout << "Favourite Meal is :"<<meal<<endl;
+cout << "I live in : "<<location<<endl;
+cout << "My Favourite movies is :"<<movie<<endl;
+cout << "My Birthday is :"<<birthday<<endl;
 
 return 0;
+
 }
 

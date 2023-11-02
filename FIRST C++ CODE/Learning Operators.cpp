@@ -19,9 +19,9 @@ int main()
     // Modulus operator '%'
     cout << "Modulus of the two numbers: " << num1 % num2 << endl;
     // Increment operator '++'
-    cout << "Increment num1 by 1 :" << ++num1 << endl;
+    cout << "Increment num1 by 1 : " << ++num1 << endl;
     // Decrement operator '--'
-    cout << "Decrement num1 by 1 :" << --num1 << endl;
+    cout << "Decrement num1 by 1 : " << --num1 << endl;
     ////
     //****Comparison operators****
     // Greater than operator '>'
