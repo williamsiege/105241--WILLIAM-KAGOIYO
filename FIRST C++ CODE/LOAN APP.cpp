@@ -22,7 +22,7 @@ int main()
 if (age>=22){
     if (balance>=10000)
     {
-       if (crb==0 ) {
+       if (crb==0) {
         if (goodCustomer>=9)
             {
             cout<< "Qualified to apply for Loan"<<endl;
@@ -33,9 +33,10 @@ if (age>=22){
             cout<< "Good Conduct time: "<<goodCustomer<<endl;
             cout<< "********CONGRATULATIONS********\n\n";
             }
-        }
         
     }
+    
+}
     
 }else{
     cout << "Not Qualified for Loan"<<endl;
@@ -47,5 +48,4 @@ if (age>=22){
     cout<< "********SORRY TRY AGAIN LATER********\n\n";   
        
 }
-    
 }
