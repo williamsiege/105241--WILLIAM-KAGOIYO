@@ -23,28 +23,30 @@ case 1:
     break;//directs Compiler to stop execution and jump to the next case
 case 2:
        cout << "Monday Classes\n.................\n" ;
-       cout << "\t1. BBIT1106: Maths for Business"<<endl;
-       cout << "\t2. BBIT1102: Fundamentals of economics"<<endl;
+       cout << "\t1. BBIT1012: Analog electronics 2"<<endl;
+       cout << "\t2. BBIT1107: Fundamentals of Business 2"<<endl;
        cout << "\t1. BBIT1110: Theology"<<endl;
     break;//directs Compiler to stop execution and jump to the next case
 case 3:
        cout << "Monday Classes\n.................\n" ;
-       cout << "\t1. BBIT1106: Maths for Business"<<endl;
-       cout << "\t2. BBIT1102: Fundamentals of economics"<<endl;
+       cout << "\t1. BBIT1010: Physical electronics 2"<<endl;
+       cout << "\t2. BBIT1015: Fundamentals of biology"<<endl;
        cout << "\t1. BBIT1110: Theology"<<endl;
     break;//directs Compiler to stop execution and jump to the next case
 case 4:
        cout << "Monday Classes\n.................\n" ;
-       cout << "\t1. BBIT1106: Maths for Business"<<endl;
-       cout << "\t2. BBIT1102: Fundamentals of economics"<<endl;
-       cout << "\t1. BBIT1110: Theology"<<endl;
+       cout << "\t1. BBIT1009: Physical electronics"<<endl;
+       cout << "\t2. BBIT1108: Fundamentals of computers"<<endl;
+       cout << "\t1. BBIT1120: Ideology"<<endl;
     break;//directs Compiler to stop execution and jump to the next case
 case 5:
        cout << "Monday Classes\n.................\n" ;
-       cout << "\t1. BBIT1106: Maths for Business"<<endl;
-       cout << "\t2. BBIT1102: Fundamentals of economics"<<endl;
-       cout << "\t1. BBIT1110: Theology"<<endl;
+       cout << "\t1. BBIT1112: Maths for engineering"<<endl;
+       cout << "\t2. BBIT1104: Physics"<<endl;
+       cout << "\t1. BBIT1119: Masters Theology"<<endl;
     break;//directs Compiler to stop execution and jump to the next case
+default :
+       cout << "No other lesson"<<endl;
 }
 
 
