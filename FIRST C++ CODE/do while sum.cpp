@@ -13,7 +13,7 @@ int value1= 20 , sum = 0;
 
 do
 {
-    /* code */ sum = sum + value1;
+    /* code */ sum+=value1;  // same as sum = sum + value1.
     value1++;
 } while (value1<=25);// continue as long as it is less than 25.
   
