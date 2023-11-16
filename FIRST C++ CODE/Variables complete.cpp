@@ -36,7 +36,7 @@ int main()
 
     // Display values
     cout << "int: " << integerVar << endl;
-    cout << "long long: " << longIntegerVar << endl;
+    cout << "long int: " << longIntegerVar << endl;
     cout << "short: " << shortIntegerVar << endl;
     cout << "float: " << floatVar << endl;
     cout << "double: " << doubleVar << endl;
