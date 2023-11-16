@@ -19,7 +19,7 @@ cin >> value1;
 
 sum = sum + value1;
     
-} while (value1!=0);// continue as long as value 1 and 2 is not zero(0).
+} while (value1!=0 && value1<=25);// continue as long as value 1 and 2 is not zero(0).
   
 cout << " Sum of NUmbers from value 1  : "<<sum<<endl;
 return 0;
