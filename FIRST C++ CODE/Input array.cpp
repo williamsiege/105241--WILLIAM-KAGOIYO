@@ -14,7 +14,7 @@ cin >> nums[1];
 cin >> nums[2];
 cin >> nums[3];
 cin >> nums[4];
-cout << "The 5 Values integers entered are :"<<endl;
+cout << "The 5 Values integers entered are : "<<endl;
 cout <<nums[0]<<endl;
 cout <<nums[1]<<endl;
 cout <<nums[2]<<endl;
